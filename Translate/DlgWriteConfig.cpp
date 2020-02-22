@@ -7,7 +7,7 @@
 #include "afxdialogex.h"
 
 
-
+//Samuil Stoynov
 // CDlgWriteConfig dialog
 
 IMPLEMENT_DYNAMIC(CDlgWriteConfig, CDialogEx)
