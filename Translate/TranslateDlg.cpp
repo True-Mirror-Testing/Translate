@@ -314,7 +314,7 @@ void CTranslateDlg::OnBnClickedButton2()
 	
 }
 
-
+//this is a comment yay
 void CTranslateDlg::OnBnClickedButton3()
 {
 	// TODO: Add your control notification handler code here
