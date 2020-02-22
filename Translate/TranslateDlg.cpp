@@ -143,7 +143,6 @@ BOOL CTranslateDlg::OnInitDialog()
 		}
 	}*/
 
-	OnWriteaconfigfileWriteaconfigfile();
 	
 	m_edit_from.SetWindowText(theApp.arrWords[0][0]);
 	m_edit_to.SetWindowText(theApp.arrWords[1][0]);
