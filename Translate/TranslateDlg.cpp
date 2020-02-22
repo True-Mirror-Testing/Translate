@@ -331,6 +331,7 @@ void CTranslateDlg::OnBnClickedButton3()
 
 	//Maria Stoynova
 	//Fixes #1
+	//Andy dobavi 1 red
 }
 
 
