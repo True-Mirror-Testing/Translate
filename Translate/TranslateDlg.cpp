@@ -330,6 +330,7 @@ void CTranslateDlg::OnBnClickedButton3()
 
 	//Maria Stoynova
 	//Fixes #1
+	//new
 }
 
 
